@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emotion Recognition Result</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body class="container mt-5">
+    <h1 class="text-center">Emotion Recognition Result</h1>
+    <p class="text-center">Detected Emotion: {{ detected_emotion }}</p>
+    
+    {% if audio_info is defined %}
+        <div class="text-center">
+            <p>Sample Rate: {{ audio_info.sample_rate }} Hz</p>
+            <p>Number of Channels: {{ audio_info.channels }}</p>
+            <p>Decibel: {{ audio_info.decibel }} dB</p>
+            <p>Bit Depth: {{ audio_info.bit_depth }} bits</p>
+            <p>Audio Length (seconds): {{ audio_info.audio_length }}</p>
+        </div>
+    {% endif %}
+    
+    <a href="/" class="btn btn-primary">Upload Another Audio File</a>
+</body>
+</html>
