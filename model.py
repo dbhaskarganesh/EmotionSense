@@ -18,7 +18,7 @@ emotions = ['angry', 'disgust', 'Fear', 'happy', 'neutral', 'Pleasant_surprise',
 X = []
 y = []
 
-base_path = r'C:\Users\ganes\OneDrive - K L University\Desktop\Emotion_Speech_Recognition\Dataset'
+base_path = r'Emotion_Speech_Recognition\Dataset'
 
 for emotion in emotions:
     audio_files = [os.path.join(base_path, emotion, file) for file in os.listdir(os.path.join(base_path, emotion))]
