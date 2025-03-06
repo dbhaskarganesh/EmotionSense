@@ -1,0 +1,7 @@
+Flask
+pydub
+mysql-connector-python
+numpy
+scikit-learn
+tensorflow
+librosa
