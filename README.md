@@ -1,4 +1,3 @@
-```markdown
 # EmotionSense 😃🎙️
 
 ![EmotionSense Banner](https://media.giphy.com/media/l0HlQ7LRalz0A8W4E/giphy.gif)
@@ -73,6 +72,3 @@ This project is licensed under the [MIT License](LICENSE).
 Happy coding and enjoy exploring the emotional side of speech with **EmotionSense**! 😃🎙️
 ```
 
----
-
-Feel free to adjust the animated GIF URLs or add more icons that suit your project's branding. Enjoy coding!
