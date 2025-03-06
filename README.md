@@ -1,7 +1,6 @@
 
 # 🎙️ EmotionSense: Speech-Based Emotion Recognition
 
-![Emotion Recognition](https://media.giphy.com/media/l0HlQ7LRalz0A8W4E/giphy.gif)
 
 EmotionSense is an advanced emotion recognition system that leverages **signal processing** and **machine learning** techniques to analyze speech patterns and accurately detect human emotions. This tool is designed for applications in **mental health, customer service, and AI-driven interactions**, enabling a more **empathetic and intelligent** human-computer experience.
 
