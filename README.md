@@ -19,7 +19,7 @@ EmotionSense is an advanced emotion recognition system that leverages **signal p
 ## 🏗️ Tech Stack  
 
 - **Programming Language:** Python 🐍  
-- **Libraries & Frameworks:** TensorFlow / PyTorch, Scikit-learn  
+- **Libraries & Frameworks:** TensorFlow, Scikit-learn  
 - **Audio Processing:** Librosa 🎵, OpenSMILE  
 - **Data Handling:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn 📊  
